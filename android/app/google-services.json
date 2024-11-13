@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735050266956",
+    "project_id": "gleamlivelocation-51f38",
+    "storage_bucket": "gleamlivelocation-51f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735050266956:android:ef684bbaf9be9e85a637e9",
+        "android_client_info": {
+          "package_name": "com.glowlogix.gleamhr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXyqpSHq-uM4TVlHTVoLq4VK7HKwB_Nvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
